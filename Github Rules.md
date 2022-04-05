@@ -46,7 +46,7 @@ git branch -D branch_anem // delete brnach with forced,
 
 git push origin --delete branch_name // delete branch in repo
 
-git push origin -u origin branch_name // push branch data to repo
+git push -u origin branch_name // push branch data to repo
 
 // Using branch
 
